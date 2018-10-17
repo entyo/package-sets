@@ -732,7 +732,7 @@
       "web-uievents"
     ],
     "repo": "https://github.com/slamdata/purescript-halogen.git",
-    "version": "v4.0.0"
+    "version": "master"
   },
   "halogen-css": {
     "dependencies": [
