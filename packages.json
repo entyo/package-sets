@@ -731,8 +731,8 @@
       "unsafe-reference",
       "web-uievents"
     ],
-    "repo": "https://github.com/slamdata/purescript-halogen.git",
-    "version": "master"
+    "repo": "https://github.com/entyo/purescript-halogen.git",
+    "version": "v5.0.0-pre"
   },
   "halogen-css": {
     "dependencies": [
