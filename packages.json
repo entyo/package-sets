@@ -374,6 +374,14 @@
     "repo": "https://github.com/slamdata/purescript-dom-indexed.git",
     "version": "v6.0.0"
   },
+  "easy-ffi": {
+    "dependencies": [
+      "prelude",
+      "quickcheck"
+    ],
+    "repo": "https://github.com/entyo/purescript-easy-ffi.git",
+    "version": "v2.1.2-pre"
+  },
   "effect": {
     "dependencies": [
       "prelude"
