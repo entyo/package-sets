@@ -1916,6 +1916,19 @@
     "repo": "https://github.com/purescript-contrib/purescript-these.git",
     "version": "v4.0.0"
   },
+  "three": {
+    "dependencies": [
+      "foreign",
+      "web-dom",
+      "easy-ffi",
+      "math",
+      "refs",
+      "transformers",
+      "prelude"
+    ],
+    "repo": "https://github.com/entyo/purescript-three.git",
+    "version": "v0.0.0"
+  },
   "transformers": {
     "dependencies": [
       "control",
